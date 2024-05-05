@@ -48,7 +48,4 @@ public abstract class main extends Nhanvien {
         }
 		  }
 	}
-
-	
-
 }
